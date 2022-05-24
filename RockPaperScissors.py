@@ -3,7 +3,7 @@ import random
 
 root=Tk()
 root.geometry('400x400')
-root.title('Rock,  Paper, Scissor Game')
+root.title('Rock, Paper, Scissor Game')
 root.config(bg='black')
 
 Label(root,text='Rock, Paper, Scissors',font='Georgia 20 bold',fg='white',bg='black').pack()
